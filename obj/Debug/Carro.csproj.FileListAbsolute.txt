@@ -1,0 +1,10 @@
+C:\Users\Fatec\Desktop\Carro\Carro\bin\Debug\Carro.exe.config
+C:\Users\Fatec\Desktop\Carro\Carro\bin\Debug\Carro.exe
+C:\Users\Fatec\Desktop\Carro\Carro\bin\Debug\Carro.pdb
+C:\Users\Fatec\Desktop\Carro\Carro\obj\Debug\Carro.csprojAssemblyReference.cache
+C:\Users\Fatec\Desktop\Carro\Carro\obj\Debug\Carro.Form1.resources
+C:\Users\Fatec\Desktop\Carro\Carro\obj\Debug\Carro.Properties.Resources.resources
+C:\Users\Fatec\Desktop\Carro\Carro\obj\Debug\Carro.csproj.GenerateResource.cache
+C:\Users\Fatec\Desktop\Carro\Carro\obj\Debug\Carro.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Desktop\Carro\Carro\obj\Debug\Carro.exe
+C:\Users\Fatec\Desktop\Carro\Carro\obj\Debug\Carro.pdb
